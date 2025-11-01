@@ -1,5 +1,7 @@
 This bot plays **Ultimate Tic-Tac-Toe** using a **Minimax algorithm with Alpha-Beta pruning** and heuristics to evaluate board states.  
 It chooses moves strategically to **maximize its chances of winning** while **minimizing the opponent's opportunities**.
+The main.py offers code which runs on codinggame
+https://www.codingame.com/profile/36485cdf74d79814b1678b84c98cb5dc7642284 - codinggame profile
 
 ---
 
@@ -47,3 +49,4 @@ It chooses moves strategically to **maximize its chances of winning** while **mi
 - Dynamically adjusts search depth
 - Calls `minimax()` to select the best move
 - Fallback ensures a valid move if Minimax fails
+
